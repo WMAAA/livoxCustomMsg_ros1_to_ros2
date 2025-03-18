@@ -19,6 +19,8 @@ from maping_msgs.msg import CustomMsg as LivoxCustomMsg
 
 在当前目录运行命令
 
+> 一定要提前source一下自定义消息的devel的setup.bash
+
 ```
 python3 ./livox_convert_livox2.py xxx xxx
 ```
